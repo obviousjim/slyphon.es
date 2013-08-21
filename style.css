@@ -15,7 +15,7 @@ html,body{
 	
 }
 
-#main img {
+#standin {
 	width: 800px;
 }
 
@@ -29,4 +29,11 @@ html,body{
 #feed {
 	float: left;
 	width: 390px;
+}
+
+#sly_circle{
+	position: relative;
+	float: left;
+	margin-left: -100px;
+
 }
