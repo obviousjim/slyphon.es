@@ -1,0 +1,32 @@
+
+html,body{
+	background-color: #000000;
+}
+
+#header{
+	color: white;
+	margin: 10px;
+	font-size: 2em;
+}
+
+#content{
+	margin: auto;
+	width: 900px;
+	
+}
+
+#main img {
+	width: 800px;
+}
+
+#howto{
+	width: 390px;
+	float: left;
+	color: #FFFFFF;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#feed {
+	float: left;
+	width: 390px;
+}
